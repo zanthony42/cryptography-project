@@ -1,0 +1,1 @@
+This project is intended to encode and decode messages by using a Hill Cipher and modular arithmetic for encryption. Methods found in linear algebra, such as matrix inversion and matrix artihmetic were coded to implement the Hill Cipher. Other functions are used to translate a message between alphabetical and numerical form, and to encode and decode messages.
